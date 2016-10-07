@@ -1,0 +1,24 @@
+c:\users\administrator\documents\visual studio 2015\Projects\StockInformation\StockInfoTests\bin\Debug\StockInfoTests.dll
+c:\users\administrator\documents\visual studio 2015\Projects\StockInformation\StockInfoTests\bin\Debug\StockInfoTests.pdb
+c:\users\administrator\documents\visual studio 2015\Projects\StockInformation\StockInfoTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+c:\users\administrator\documents\visual studio 2015\Projects\StockInformation\StockInfoTests\bin\Debug\StockInformation.dll
+c:\users\administrator\documents\visual studio 2015\Projects\StockInformation\StockInfoTests\bin\Debug\StockInformation.pdb
+c:\users\administrator\documents\visual studio 2015\Projects\StockInformation\StockInfoTests\obj\Debug\StockInfoTests.csprojResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2015\Projects\StockInformation\StockInfoTests\obj\Debug\StockInfoTests.dll
+c:\users\administrator\documents\visual studio 2015\Projects\StockInformation\StockInfoTests\obj\Debug\StockInfoTests.pdb
+C:\Users\sc\Dropbox\Unit 438\StockInformation\StockInformation\StockInfoTests\bin\Debug\StockInfoTests.dll
+C:\Users\sc\Dropbox\Unit 438\StockInformation\StockInformation\StockInfoTests\bin\Debug\StockInfoTests.pdb
+C:\Users\sc\Dropbox\Unit 438\StockInformation\StockInformation\StockInfoTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\sc\Dropbox\Unit 438\StockInformation\StockInformation\StockInfoTests\bin\Debug\StockInformation.dll
+C:\Users\sc\Dropbox\Unit 438\StockInformation\StockInformation\StockInfoTests\bin\Debug\StockInformation.pdb
+C:\Users\sc\Dropbox\Unit 438\StockInformation\StockInformation\StockInfoTests\obj\Debug\StockInfoTests.csprojResolveAssemblyReference.cache
+C:\Users\sc\Dropbox\Unit 438\StockInformation\StockInformation\StockInfoTests\obj\Debug\StockInfoTests.dll
+C:\Users\sc\Dropbox\Unit 438\StockInformation\StockInformation\StockInfoTests\obj\Debug\StockInfoTests.pdb
+C:\Users\sc\Dropbox\Unit 438\StockInformation\StockInfoTests\bin\Debug\StockInfoTests.dll
+C:\Users\sc\Dropbox\Unit 438\StockInformation\StockInfoTests\bin\Debug\StockInfoTests.pdb
+C:\Users\sc\Dropbox\Unit 438\StockInformation\StockInfoTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\sc\Dropbox\Unit 438\StockInformation\StockInfoTests\bin\Debug\StockInformation.dll
+C:\Users\sc\Dropbox\Unit 438\StockInformation\StockInfoTests\bin\Debug\StockInformation.pdb
+C:\Users\sc\Dropbox\Unit 438\StockInformation\StockInfoTests\obj\Debug\StockInfoTests.csprojResolveAssemblyReference.cache
+C:\Users\sc\Dropbox\Unit 438\StockInformation\StockInfoTests\obj\Debug\StockInfoTests.dll
+C:\Users\sc\Dropbox\Unit 438\StockInformation\StockInfoTests\obj\Debug\StockInfoTests.pdb

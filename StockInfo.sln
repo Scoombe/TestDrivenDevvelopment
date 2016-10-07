@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StockInfo", "StockInformation\StockInfo.csproj", "{D48A0403-8A81-4D72-99F1-394F75286DE8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StockInfoTests", "StockInfoTests\StockInfoTests.csproj", "{A0716B3C-8025-4417-9B14-767E0FAF14C0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D48A0403-8A81-4D72-99F1-394F75286DE8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D48A0403-8A81-4D72-99F1-394F75286DE8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D48A0403-8A81-4D72-99F1-394F75286DE8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D48A0403-8A81-4D72-99F1-394F75286DE8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A0716B3C-8025-4417-9B14-767E0FAF14C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0716B3C-8025-4417-9B14-767E0FAF14C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0716B3C-8025-4417-9B14-767E0FAF14C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0716B3C-8025-4417-9B14-767E0FAF14C0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
